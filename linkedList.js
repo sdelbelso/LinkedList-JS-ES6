@@ -53,7 +53,7 @@ class LinkedList {
 		
 		this.count++;
     
-    return node;
+    		return node;
 	}
 	
 	removeFirst() {
